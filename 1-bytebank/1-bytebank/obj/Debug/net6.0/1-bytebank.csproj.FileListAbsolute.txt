@@ -1,0 +1,15 @@
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\bin\Debug\net6.0\1-bytebank.exe
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\bin\Debug\net6.0\1-bytebank.deps.json
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\bin\Debug\net6.0\1-bytebank.runtimeconfig.json
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\bin\Debug\net6.0\1-bytebank.dll
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\bin\Debug\net6.0\1-bytebank.pdb
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\obj\Debug\net6.0\1-bytebank.csproj.AssemblyReference.cache
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\obj\Debug\net6.0\1-bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\obj\Debug\net6.0\1-bytebank.AssemblyInfoInputs.cache
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\obj\Debug\net6.0\1-bytebank.AssemblyInfo.cs
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\obj\Debug\net6.0\1-bytebank.csproj.CoreCompileInputs.cache
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\obj\Debug\net6.0\1-bytebank.dll
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\obj\Debug\net6.0\refint\1-bytebank.dll
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\obj\Debug\net6.0\1-bytebank.pdb
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\obj\Debug\net6.0\1-bytebank.genruntimeconfig.cache
+C:\Users\vicvi\source\repos\1-bytebank\1-bytebank\obj\Debug\net6.0\ref\1-bytebank.dll
